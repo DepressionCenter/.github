@@ -1,3 +1,5 @@
+![EFDC Logo](https://raw.githubusercontent.com/DepressionCenter/.github/main/EFDCLogo_375w.png "EFDC")
+
 ### Eisenberg Family Depression Center
 
 Web: https://depressioncenter.org
