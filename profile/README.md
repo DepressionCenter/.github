@@ -9,11 +9,12 @@ Established in 2001, the Eisenberg Family Depression Center is the first of its 
 
 The EFDC GitHub organization contains code repositories for projects sponsored by or affiliated with the center. Repositories include:
 + Research Innovation Core
-+ Data & Design Core
-+ Mobile Technologies Core
-+ Mobile Data Experts Network (MDEN)
++ [Data & Design Core](https://github.com/DepressionCenter/Data-and-Design-Core)
++ [Mobile Technologies Core](https://github.com/orgs/DepressionCenter/repositories?q=MTC&type=all)
++ [Mobile Data Experts Network (MDEN)](https://github.com/DepressionCenter/MDEN)
 + Mobile Coordinators Network (MCN)
 + DIGIT-MI
+
 
 
 ## Contact
@@ -22,7 +23,8 @@ Gabriel Mongefranco ( [@gabrielmongefranco](https://github.com/gabrielmongefranc
 
 Mobile Data Architect
 
-[m o n g e f r g @ umich . edu](https://sites.google.com/umich.edu/gabrielmongefranco/gabriel-mongefranco-umich)
+Work: [📧](https://sites.google.com/umich.edu/gabrielmongefranco/gabriel-mongefranco-umich "mongefrg umich.edu")
+
 
 
 ### Business Contacts
@@ -32,7 +34,8 @@ Web: https://depressioncenter.org
 
 Phone: 734-763-9629
 
-Email: depressioncenter@umich.edu
+Email: [📧](mailto:depressioncenter@umich.edu "depressioncenter@umich.edu")
+
 
 
 ----
