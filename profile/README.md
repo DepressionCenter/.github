@@ -18,7 +18,7 @@ The EFDC GitHub organization contains code repositories for projects sponsored b
 
 ## Contact
 ### Technical Contacts
-Gabriel Mongefranco ( [@gabrielmongefranco-umich](https://github.com/gabrielmongefranco-umich) / [@gabrielmongefranco](https://github.com/gabrielmongefranco) )
+Gabriel Mongefranco ( [@gabrielmongefranco](https://github.com/gabrielmongefranco) )
 
 Mobile Data Architect
 
