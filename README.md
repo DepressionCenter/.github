@@ -4,10 +4,6 @@
 
 Web: https://depressioncenter.org
 
-Phone: 734-763-9629
-
-Email: depressioncenter@umich.edu
-
 ----
 
 #### About This Repository
