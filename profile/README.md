@@ -1,4 +1,4 @@
-![EFDC Logo](https://raw.githubusercontent.com/DepressionCenter/.github/main/EFDCLogo_375w.png "EFDC")
+![EFDC Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "EFDC")
 
 
 # **Eisenberg Family Depression Center Git Repositories**
