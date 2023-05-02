@@ -18,23 +18,30 @@ The EFDC GitHub organization contains code repositories for projects sponsored b
 
 
 ## Contact
+
 ### Technical Contact
-Gabriel Mongefranco ( [@gabrielmongefranco](https://github.com/gabrielmongefranco) )
+Gabriel Mongefranco
 
 Mobile Data Architect
 
-Work: [📧](https://sites.google.com/umich.edu/gabrielmongefranco/gabriel-mongefranco-umich "mongefrg umich.edu")
+Git: [@gabrielmongefranco](https://github.com/gabrielmongefranco)
+
+Email: [📧](mailto:efdc-mobiletech@umich.edu "efdc-mobiletech@umich.edu")
+
+Web: [Staff Profile](https://sites.google.com/umich.edu/gabrielmongefranco/gabriel-mongefranco-umich) | [MCommunity](https://mcommunity.umich.edu/person/mongefrg)
 
 
 
-### Center Contact
+### General Contact
 Eisenberg Family Depression Center
-
-Web: https://depressioncenter.org
 
 Phone: 734-763-9629
 
+Git: [@DepressionCenter](https://github.com/depressioncenter)
+
 Email: [📧](mailto:depressioncenter@umich.edu "depressioncenter@umich.edu")
+
+Web: https://depressioncenter.org
 
 
 
