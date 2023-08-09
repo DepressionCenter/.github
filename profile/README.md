@@ -37,12 +37,13 @@ Eisenberg Family Depression Center
 
 Phone: 734-763-9629
 
-Git: [@DepressionCenter](https://github.com/depressioncenter)
-
 Email: [📧](mailto:depressioncenter@umich.edu "depressioncenter@umich.edu")
 
 Web: https://depressioncenter.org
 
+
+## Resources
+[Website](https://depressioncenter.org)  |  [GitHub](https://github.com/DepressionCenter)  |  [Knowledge Base](https://teamdynamix.umich.edu/TDClient/210/Portal/Home/)  |  [MiVideo (internal)](https://www.mivideo.it.umich.edu/channel/Eisenberg%2BFamily%2BDepression%2BCenter/310019572)  |  [YouTube](https://www.youtube.com/@DepressionCenter)
 
 
 ----
