@@ -43,7 +43,7 @@ Web: https://depressioncenter.org
 
 
 ## Resources
-[Website](https://depressioncenter.org)  |  [GitHub](https://github.com/DepressionCenter)  |  [Knowledge Base](https://teamdynamix.umich.edu/TDClient/210/Portal/Home/)  |  [MiVideo (internal)](https://www.mivideo.it.umich.edu/channel/Eisenberg%2BFamily%2BDepression%2BCenter/310019572)  |  [YouTube](https://www.youtube.com/@DepressionCenter)
+[Website](https://depressioncenter.org)  |  [GitHub](https://github.com/DepressionCenter)  |  [Knowledge Base](https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/Home/)  |  [YouTube](https://www.youtube.com/@DepressionCenter)
 
 
 ----
