@@ -48,8 +48,8 @@ The Depression Center Code Repositories on GitHub feature code used in research,
         <p>Tableau dashboard templates and example workbooks for research teams.</p>
       </td>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/MTC-Public-PowerBI-Dashboards">MTC PowerBI Dashboards</a></h4>
-        <p>PowerBI dashboard templates and examples for research teams.</p>
+        <h4><a href="https://github.com/DepressionCenter/AI-prompt-database">AI Prompts Database</a></h4>
+        <p>Real-world examples of UMGPT, Maizey and other AI prompts from the University of Michigan.</p>
       </td>
       <td width="32%">
         <h4><a href="https://github.com/orgs/DepressionCenter/repositories"> . . . And much more!</a></h4>
