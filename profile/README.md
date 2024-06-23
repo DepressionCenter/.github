@@ -16,8 +16,8 @@ The Depression Center Code Repositories on GitHub feature code used in research,
   <tbody>
     <tr>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/MDEN">Mobile Data Experts Network (MDEN)</a></h4>
-        <p>Mobile technologies code from MDEN, featuring Fitbit data cleaning automations, REDCap project templates, and links to useful external modules.</p>
+        <h4><a href="https://github.com/DepressionCenter/SleepDataAutomation">Sleep Data Automation for Fitbit</a></h4>
+        <p>Automated sleep data cleanup and processing to harmonize Fitbit data obtained via Fitabase with self-reported sleep diary entries sent via SMS messages.</p>
       </td>
       <td width="32%">
         <h4><a href="https://github.com/DepressionCenter/MiNap">MiNap</a></h4>
@@ -34,8 +34,8 @@ The Depression Center Code Repositories on GitHub feature code used in research,
         <p>Code for tools and automation used internally by the Mobile Technologies Core.</p>
       </td>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/EFDC-TDX-KB">EFDC TDX Knowledge Base Code</a></h4>
-        <p>Custom HTML and CSS for the Depression Center KB (TDX Client Portal)</p>
+        <h4><a href="https://github.com/DepressionCenter/GitHub-Usage-Stats">GitHub Usage Stats</a></h4>
+        <p>Scripts to capture GitHub repository and usage statistics daily.</p>
       </td>
       <td width="32%">
         <h4><a href="https://github.com/DepressionCenter/MTC-SharePoint-Site">MTC SharePoint Site</a></h4>
@@ -44,8 +44,8 @@ The Depression Center Code Repositories on GitHub feature code used in research,
     </tr>
     <tr>
       <td width="32%">
-        <h4><a href="">MTC Tableau Dashboards</a></h4>
-        <p>Tableau dashboard templates and example workbooks for research teams.</p>
+        <h4><a href="https://github.com/DepressionCenter/Useful-SQL-Queries-for-UMich-Research-Centers">Useful SQL Queries for UMich Research Centers</a></h4>
+        <p>Useful SQL queries for University of Michigan research cores, centers, institutes and labs, including queries to report on publications and grants.</p>
       </td>
       <td width="32%">
         <h4><a href="https://github.com/DepressionCenter/AI-prompt-database">AI Prompts Database</a></h4>
