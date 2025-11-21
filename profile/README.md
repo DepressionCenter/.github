@@ -44,8 +44,8 @@ The Depression Center Code Repositories on GitHub feature code used in research,
     </tr>
     <tr>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/Useful-SQL-Queries-for-UMich-Research-Centers">Useful SQL Queries for UMich Research Centers</a></h4>
-        <p>Useful SQL queries for University of Michigan research cores, centers, institutes and labs, including queries to report on publications and grants.</p>
+        <h4><a href="https://github.com/DepressionCenter/Yawnalyzer">Yawnalyzer</a></h4>
+        <p>Automated data cleaning and sleep/gait metrics for Apple Watch data collected via SensorKit and ResearchKit.</p>
       </td>
       <td width="32%">
         <h4><a href="https://github.com/DepressionCenter/AI-prompt-database">AI Prompts Database</a></h4>
