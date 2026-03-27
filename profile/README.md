@@ -38,8 +38,8 @@ The Depression Center Code Repositories on GitHub feature code used in research,
         <p>Scripts to capture GitHub repository and usage statistics daily.</p>
       </td>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/MTC-SharePoint-Site">MTC SharePoint Site</a></h4>
-        <p>Code used by the Mobile Technologies Core team's SharePoint site, including JSON/CSS for View Formatting.</p>
+        <h4><a href="https://github.com/DepressionCenter/datalavista">DataLaVista</a></h4>
+        <p>🕶️ Tell your expensive BI tools: "Data la vista, baby!" DataLaVista is a lightweight, client-side reporting and dashboard toolkit.</p>
       </td>
     </tr>
     <tr>
