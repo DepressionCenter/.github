@@ -16,21 +16,21 @@ The Depression Center Code Repositories on GitHub feature code used in research,
   <tbody>
     <tr>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/SleepDataAutomation">Sleep Data Automation for Fitbit</a></h4>
+        <h4><a href="https://github.com/DepressionCenter/SleepDataAutomation">Sleep Data Automation™ for Fitbit</a></h4>
         <p>Automated sleep data cleanup and processing to harmonize Fitbit data obtained via Fitabase with self-reported sleep diary entries sent via SMS messages.</p>
       </td>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/MiNap">MiNap</a></h4>
+        <h4><a href="https://github.com/DepressionCenter/MiNap">MiNap™</a></h4>
         <p>Code and documentation for Mi Nap sleep diary smartwatch app and related infrastructure, developed by the 2023 ITS intern cohort at the University of Michigan.</p>
       </td>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/TrackMaster">TrackMaster</a></h4>
-        <p>Code and documentation for TrackMaster membership tracking tool and related infrastructure, developed by the 2023 ITS intern cohort at the University of Michigan.</p>
+        <h4><a href="https://github.com/DepressionCenter/TrackMaster">TrackMaster™</a></h4>
+        <p>Code and documentation for TrackMaster membership tracking tool™ and related infrastructure, developed by the 2023 ITS intern cohort at the University of Michigan.</p>
       </td>
     </tr>
     <tr>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/MTC-Internal-Tools-and-Automation">MTC Internal Tools & Automation</a></h4>
+        <h4><a href="https://github.com/DepressionCenter/MTC-Internal-Tools-and-Automation">MTC Internal Tools & Automation™</a></h4>
         <p>Code for tools and automation used internally by the Mobile Technologies Core.</p>
       </td>
       <td width="32%">
@@ -38,18 +38,18 @@ The Depression Center Code Repositories on GitHub feature code used in research,
         <p>Scripts to capture GitHub repository and usage statistics daily.</p>
       </td>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/datalavista">DataLaVista</a></h4>
+        <h4><a href="https://github.com/DepressionCenter/datalavista">DataLaVista™</a></h4>
         <p>🕶️ Tell your expensive BI tools: "Data la vista, baby!" DataLaVista is a lightweight, client-side reporting and dashboard toolkit.</p>
       </td>
     </tr>
     <tr>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/Yawnalyzer">Yawnalyzer</a></h4>
+        <h4><a href="https://github.com/DepressionCenter/Yawnalyzer">Yawnalyzer™</a></h4>
         <p>Automated data cleaning and sleep/gait metrics for Apple Watch data collected via SensorKit and ResearchKit.</p>
       </td>
       <td width="32%">
-        <h4><a href="https://github.com/DepressionCenter/AI-prompt-database">AI Prompts Database</a></h4>
-        <p>Real-world examples of UMGPT, Maizey and other AI prompts from the University of Michigan.</p>
+        <h4><a href="https://github.com/DepressionCenter/AI-prompt-database">AI Prompts Database™</a></h4>
+        <p>Real-world examples of AI prompts from the University of Michigan.</p>
       </td>
       <td width="32%">
         <h4><a href="https://github.com/orgs/DepressionCenter/repositories"> . . . And much more!</a></h4>
