@@ -29,7 +29,7 @@ The Depression Center Code Repositories on GitHub feature code used in research,
       </td>
     </tr>
     <tr>
-      <td width="32%" data-featured="true" data-lang="JavaScript" data-website="https://code.depressioncenter.org/datalavista" data-demo="" data-docs="https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=15179" data-image="datalavista.png">
+      <td width="32%" data-featured="true" data-lang="JavaScript" data-website="https://code.depressioncenter.org/datalavista" data-demo="https://code.depressioncenter.org/datalavista/DataLaVista.html?reportMode=view&report=https://code.depressioncenter.org/datalavista/samples/reports/Project%20Health%20Dashboard.json" data-docs="https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=15179" data-image="datalavista.png">
         <h4><a href="https://github.com/DepressionCenter/datalavista">DataLaVista™</a></h4>
         <p>🕶️ Tell your expensive BI tools: "Data la vista, baby!" DataLaVista is a lightweight, client-side reporting and dashboard toolkit.</p>
       </td>
@@ -75,7 +75,7 @@ The Depression Center Code Repositories on GitHub feature code used in research,
         <h4><a href="https://github.com/DepressionCenter/MDEN">MDEN</a></h4>
         <p>Mobile technologies code from the University of Michigan's Mobile Data Experts Network (MDEN), featuring data cleaning automations, REDCap project templates, and more.</p>
       </td>
-      <td width="32%" data-featured="false" data-lang="" data-website="" data-demo="" data-docs="" data-image="MiNap.png">
+      <td width="32%" data-featured="false" data-lang="XCode, SQL" data-website="" data-demo="" data-docs="https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=10603" data-image="MiNap.png">
         <h4><a href="https://github.com/DepressionCenter/MiNap">MiNap™</a></h4>
         <p>Code and documentation for Mi Nap sleep diary smartwatch app and related infrastructure, developed by the 2023 ITS intern cohort at the University of Michigan.</p>
       </td>
@@ -107,13 +107,13 @@ The Depression Center Code Repositories on GitHub feature code used in research,
         <h4><a href="https://github.com/DepressionCenter/Sitenalyzer">Sitenalyzer</a></h4>
         <p>Data dictionary and security information extraction for SharePoint sites.</p>
       </td>
-      <td width="32%" data-featured="true" data-lang="" data-website="" data-demo="" data-docs="https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=11822" data-image="SleepDataAutomation.png">
+      <td width="32%" data-featured="true" data-lang="Power Query" data-website="https://michmed.org/sleepdata" data-demo="" data-docs="https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=11822" data-image="SleepDataAutomation.png">
         <h4><a href="https://github.com/DepressionCenter/SleepDataAutomation">Sleep Data Automation™ for Fitbit</a></h4>
         <p>Automated sleep data cleanup and processing to harmonize Fitbit data obtained via Fitabase with self-reported sleep diary entries sent via SMS messages.</p>
       </td>
     </tr>
     <tr>
-      <td width="32%" data-featured="false" data-lang="HTML" data-website="" data-demo="" data-docs="" data-image="TrackMaster.png">
+      <td width="32%" data-featured="false" data-lang="HTML" data-website="http://michmed.org/trackmaster" data-demo="" data-docs="https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=10614" data-image="TrackMaster.png">
         <h4><a href="https://github.com/DepressionCenter/TrackMaster">TrackMaster™</a></h4>
         <p>Code and documentation for TrackMaster membership tracking tool™ and related infrastructure, developed by the 2023 ITS intern cohort at the University of Michigan.</p>
       </td>
