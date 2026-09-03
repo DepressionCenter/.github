@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 64" role="img" aria-labelledby="title desc">
-<title id="title">Explore the Open Source Hub</title>
-<desc id="desc">Yellow call to action button linking to the Depression Center Open Source Hub.</desc>
-<rect x="1.5" y="1.5" width="427" height="61" rx="12" fill="#FFCB05" stroke="#E0B403" stroke-width="3"/>
-<path d="M90 23l-10 9 10 9M110 23l10 9-10 9M98 42l8-20" fill="none" stroke="#00274C" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="136" y="39" fill="#00274C" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Explore the Open Source Hub</text>
-<path d="M395 32H371M388 25l7 7-7 7" fill="none" stroke="#00274C" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 60" role="img" aria-labelledby="title desc"><title id="title">Explore the Open Source Hub</title><desc id="desc">Yellow call to action button linking to the Depression Center Open Source Hub.</desc><!-- Code icon: Bootstrap Icons, MIT License --><rect x="1.5" y="1.5" width="427" height="57" rx="10" fill="#FFCB05" stroke="#D4A000" stroke-width="3"/><g transform="translate(24 17) scale(1.65)" fill="#00274C"><path d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0m6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0"/></g><text x="64" y="36" fill="#00274C" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Explore the Open Source Hub</text><path d="M397 30h-20m13-7 7 7-7 7" fill="none" stroke="#00274C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
