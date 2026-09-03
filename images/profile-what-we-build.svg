@@ -1,35 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
-<title id="title">What we build</title><desc id="desc">Research software, data and visualization, automation, and mobile technologies.</desc>
-<rect width="1200" height="230" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
-<g font-family="Arial,Helvetica,sans-serif">
-  <g transform="translate(28 25)">
-    <rect width="270" height="180" rx="12" fill="#FFFFFF" stroke="#D8DEE4"/>
-    <circle cx="45" cy="48" r="27" fill="#EAF3FF" stroke="#2F81F7"/>
-    <path d="M35 31h20M41 31v15L29 68c-2 4 1 8 6 8h20c5 0 8-4 6-8L49 46V31" fill="none" stroke="#0969DA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M36 61h18" stroke="#0969DA" stroke-width="3"/>
-    <text x="85" y="42" fill="#00274C" font-size="18" font-weight="700">RESEARCH SOFTWARE</text>
-    <text x="85" y="70" fill="#57606A" font-size="15">Tools and reusable workflows</text><text x="85" y="91" fill="#57606A" font-size="15">that accelerate research and</text><text x="85" y="112" fill="#57606A" font-size="15">support reproducibility.</text>
-  </g>
-  <g transform="translate(313 25)">
-    <rect width="270" height="180" rx="12" fill="#FFFFFF" stroke="#D8DEE4"/>
-    <circle cx="45" cy="48" r="27" fill="#EAF8EE" stroke="#2DA44E"/>
-    <path d="M31 66V54h8v12M43 66V44h8v22M55 66V35h8v31" fill="none" stroke="#1A7F37" stroke-width="3"/><path d="M29 42l12-10 10 5 14-14" fill="none" stroke="#1A7F37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M60 23h7v7" fill="none" stroke="#1A7F37" stroke-width="3"/>
-    <text x="85" y="42" fill="#00274C" font-size="18" font-weight="700">DATA &amp; VISUALIZATION</text>
-    <text x="85" y="70" fill="#57606A" font-size="15">Cleaning, analytics, dashboards,</text><text x="85" y="91" fill="#57606A" font-size="15">visualization, and reporting</text><text x="85" y="112" fill="#57606A" font-size="15">for research teams.</text>
-  </g>
-  <g transform="translate(598 25)">
-    <rect width="270" height="180" rx="12" fill="#FFFFFF" stroke="#D8DEE4"/>
-    <circle cx="45" cy="48" r="27" fill="#FFF4D6" stroke="#D4A000"/>
-    <g transform="translate(45 48)" fill="none" stroke="#B58100" stroke-width="3"><circle r="10"/><path d="M0-23v7M0 16v7M-23 0h7M16 0h7M-16-16l5 5M11 11l5 5M16-16l-5 5M-11 11l-5 5"/></g>
-    <text x="85" y="42" fill="#00274C" font-size="18" font-weight="700">AUTOMATION</text>
-    <text x="85" y="70" fill="#57606A" font-size="15">Reduce repetitive technical</text><text x="85" y="91" fill="#57606A" font-size="15">work and remove barriers so</text><text x="85" y="112" fill="#57606A" font-size="15">research teams move faster.</text>
-  </g>
-  <g transform="translate(883 25)">
-    <rect width="289" height="180" rx="12" fill="#FFFFFF" stroke="#D8DEE4"/>
-    <circle cx="45" cy="48" r="27" fill="#F3EAFE" stroke="#8250DF"/>
-    <rect x="34" y="25" width="22" height="46" rx="4" fill="none" stroke="#6639BA" stroke-width="3"/><circle cx="45" cy="65" r="1.8" fill="#6639BA"/>
-    <text x="85" y="42" fill="#00274C" font-size="18" font-weight="700">MOBILE TECHNOLOGIES</text>
-    <text x="85" y="70" fill="#57606A" font-size="15">Wearables, sensors, apps,</text><text x="85" y="91" fill="#57606A" font-size="15">mobile data, and research</text><text x="85" y="112" fill="#57606A" font-size="15">technology resources.</text>
-  </g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">What we build</title>
+<desc id="desc">Research software, data and visualization, automation, and mobile technologies.</desc>
+<defs>
+  <style>
+    .card{fill:#F8FAFC;stroke:#D8E2EE;stroke-width:2}
+    .title{font:700 20px Arial, Helvetica, sans-serif}
+    .desc{font:400 14px Arial, Helvetica, sans-serif; fill:#33475B}
+  </style>
+</defs>
+<rect x="24" y="22" rx="16" ry="16" width="276" height="186" class="card"/>
+<circle cx="75" cy="68" r="28" fill="#E8F1FF" stroke="#2A6FD6" stroke-width="2"/>
+<path d="M62 50h26M72 50v12l-10 18a2 2 0 0 0 1.73 3h22.54A2 2 0 0 0 88 80L78 62V50" fill="none" stroke="#2A6FD6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M66 74h18" stroke="#2A6FD6" stroke-width="2.4" stroke-linecap="round"/>
+<text x="116" y="64" fill="#0D3B75" class="title">RESEARCH</text>
+<text x="116" y="88" fill="#0D3B75" class="title">SOFTWARE</text>
+<text x="48" y="124" class="desc">Tools and reusable workflows that</text>
+<text x="48" y="144" class="desc">accelerate research and</text>
+<text x="48" y="164" class="desc">reproducibility.</text>
+
+<rect x="316" y="22" rx="16" ry="16" width="276" height="186" class="card"/>
+<circle cx="367" cy="68" r="28" fill="#EAF7ED" stroke="#2F8F46" stroke-width="2"/>
+<path d="M349 84V58M362 84V68M375 84V49M387 84V62" fill="none" stroke="#2F8F46" stroke-width="3" stroke-linecap="round"/>
+<path d="M347 54l26-18 15 14 17-19" fill="none" stroke="#2F8F46" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M399 31h14v14" fill="none" stroke="#2F8F46" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="408" y="64" fill="#1B6D34" class="title">DATA &amp;</text>
+<text x="408" y="88" fill="#1B6D34" class="title">VISUALIZATION</text>
+<text x="340" y="124" class="desc">Practical approaches to cleaning,</text>
+<text x="340" y="144" class="desc">analyzing, visualizing, and</text>
+<text x="340" y="164" class="desc">reporting research data.</text>
+
+<rect x="608" y="22" rx="16" ry="16" width="276" height="186" class="card"/>
+<circle cx="659" cy="68" r="28" fill="#FFF3E3" stroke="#D17B00" stroke-width="2"/>
+<path d="M659 48l5 4 6-1 2 6 5 3-2 6 2 6-5 3-2 6-6-1-5 4-5-4-6 1-2-6-5-3 2-6-2-6 5-3 2-6 6 1z" fill="none" stroke="#D17B00" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="659" cy="68" r="8" fill="none" stroke="#D17B00" stroke-width="2.4"/>
+<text x="700" y="64" fill="#B15F00" class="title">AUTOMATION</text>
+<text x="632" y="124" class="desc">Solutions that reduce repetitive</text>
+<text x="632" y="144" class="desc">technical work and help research</text>
+<text x="632" y="164" class="desc">teams move faster.</text>
+
+<rect x="900" y="22" rx="16" ry="16" width="276" height="186" class="card"/>
+<circle cx="951" cy="68" r="28" fill="#F3ECFF" stroke="#7A3EC8" stroke-width="2"/>
+<rect x="940" y="48" width="22" height="39" rx="4" fill="none" stroke="#7A3EC8" stroke-width="2.4"/>
+<circle cx="951" cy="80" r="1.9" fill="#7A3EC8"/>
+<path d="M946 54h10" stroke="#7A3EC8" stroke-width="2" stroke-linecap="round"/>
+<text x="992" y="64" fill="#6C34AF" class="title">MOBILE</text>
+<text x="992" y="88" fill="#6C34AF" class="title">TECHNOLOGIES</text>
+<text x="924" y="124" class="desc">Resources for wearables, sensors,</text>
+<text x="924" y="144" class="desc">apps, and mobile data used in</text>
+<text x="924" y="164" class="desc">research.</text>
 </svg>
