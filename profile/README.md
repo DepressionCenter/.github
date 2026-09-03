@@ -42,13 +42,11 @@ Open source works best when students, professional developers, and researchers c
 
 ## Let's connect
 
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-connect-mobile.svg">
-  <img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-connect.svg" alt="Technical questions and collaboration: Gabriel Mongefranco, Senior Mobile Data Architect, Mobile Technologies Core. General inquiries: Eisenberg Family Depression Center." width="1200">
-</picture>
-
 **Technical questions & collaboration — Gabriel Mongefranco**  
-Senior Mobile Data Architect, Mobile Technologies Core · [Email](mailto:efdc-mobiletech@umich.edu) · [GitHub](https://github.com/gabrielmongefranco) · [Staff Profile](https://sites.google.com/umich.edu/gabrielmongefranco/gabriel-mongefranco-umich) · [Website](https://gabriel.mongefranco.com)
+Mobile Data Architect, Mobile Technologies Core · [Email](mailto:mongefrg@umich.edu) · [GitHub](https://github.com/gabrielmongefranco) · [Website](https://gabriel.mongefranco.com)
+
+**Consultations, wearables questions & collaboration — Mobile Technologies Core**  
+Mobile Technologies Core · [Email](mailto:efdc-mobiletech@umich.edu) · [Website](https://depressioncenter.org/mobiletech)
 
 **General inquiries — Eisenberg Family Depression Center**  
 [Email](mailto:depressioncenter@umich.edu) · 734-763-9629 · [Website](https://depressioncenter.org)
