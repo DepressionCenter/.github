@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Code that accelerates research breakthroughs</title>
+  <desc id="desc">Eisenberg Family Depression Center open source research and automation code at the University of Michigan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#001830"/>
+      <stop offset="0.55" stop-color="#00274C"/>
+      <stop offset="1" stop-color="#003366"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="45%" r="48%">
+      <stop offset="0" stop-color="#1478B8" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#1478B8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#8BA3BC" stroke-opacity=".16" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="14" fill="url(#grid)"/>
+  <rect width="1200" height="420" rx="14" fill="url(#glow)"/>
+
+  <g opacity=".70" fill="none" stroke-linecap="round">
+    <path d="M760 78L842 50L922 86L1008 54L1092 112L1048 192L1110 254L1028 322L928 304L854 346L790 286L724 236L760 166Z" stroke="#3BA4E5" stroke-width="2"/>
+    <path d="M760 78L922 86L1048 192L928 304L790 286L760 78Z" stroke="#8BA3BC" stroke-width="1.5"/>
+    <path d="M842 50L854 346M1008 54L790 286M1092 112L724 236M1110 254L760 166" stroke="#4C9ED9" stroke-width="1.2"/>
+    <path d="M724 236L842 50L1048 192L854 346L760 166L1092 112L928 304L1008 54" stroke="#8BA3BC" stroke-opacity=".55" stroke-width="1.1"/>
+    <path d="M790 286L922 86L1110 254M760 78L1028 322M854 346L1008 54" stroke="#FFCB05" stroke-opacity=".45" stroke-width="1.2"/>
+  </g>
+
+  <g>
+    <circle cx="760" cy="78" r="5" fill="#FFCB05"/>
+    <circle cx="842" cy="50" r="4" fill="#55B6F2"/>
+    <circle cx="922" cy="86" r="5" fill="#FFCB05"/>
+    <circle cx="1008" cy="54" r="4" fill="#55B6F2"/>
+    <circle cx="1092" cy="112" r="5" fill="#FFCB05"/>
+    <circle cx="1048" cy="192" r="4" fill="#55B6F2"/>
+    <circle cx="1110" cy="254" r="5" fill="#FFCB05"/>
+    <circle cx="1028" cy="322" r="4" fill="#55B6F2"/>
+    <circle cx="928" cy="304" r="5" fill="#FFCB05"/>
+    <circle cx="854" cy="346" r="4" fill="#55B6F2"/>
+    <circle cx="790" cy="286" r="5" fill="#FFCB05"/>
+    <circle cx="724" cy="236" r="4" fill="#55B6F2"/>
+    <circle cx="760" cy="166" r="4" fill="#FFCB05"/>
+    <circle cx="876" cy="190" r="6" fill="#FFFFFF"/>
+    <circle cx="968" cy="224" r="5" fill="#55B6F2"/>
+  </g>
+
+  <text x="62" y="64" fill="#C5D3DF" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="2.2">RESEARCH &amp; AUTOMATION CODE — UNIVERSITY OF MICHIGAN</text>
+  <rect x="62" y="88" width="78" height="5" rx="2.5" fill="#FFCB05"/>
+  <text x="62" y="170" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.2">CODE THAT <tspan fill="#FFCB05">ACCELERATES</tspan></text>
+  <text x="62" y="232" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.2">RESEARCH BREAKTHROUGHS.</text>
+  <text x="62" y="294" fill="#F0F4F8" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Open source tools, automations, and research workflows</text>
+  <text x="62" y="326" fill="#F0F4F8" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">designed to accelerate mental health discoveries.</text>
+</svg>
