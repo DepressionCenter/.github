@@ -1,9 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 285" role="img" aria-labelledby="title desc">
-<title id="title">Get involved</title><desc id="desc">Ways students, developers, and researchers can participate in Eisenberg Family Depression Center open source projects.</desc>
-<rect width="1200" height="285" rx="14" fill="#FFFFFF" stroke="#D0D7DE"/>
-<g font-family="Arial,Helvetica,sans-serif">
-  <g transform="translate(38 28)"><rect width="350" height="228" rx="12" fill="#F6F8FA" stroke="#D8DEE4"/><circle cx="58" cy="60" r="30" fill="#EAF3FF"/><path d="M31 51l27-14 27 14-27 14-27-14Zm10 8v18c12 9 22 9 34 0V59" fill="none" stroke="#0969DA" stroke-width="3" stroke-linejoin="round"/><text x="105" y="51" fill="#00274C" font-size="21" font-weight="700">STUDENTS</text><text x="105" y="82" fill="#57606A" font-size="16">Learn from real research software.</text><text x="105" y="106" fill="#57606A" font-size="16">Contribute code, documentation,</text><text x="105" y="130" fill="#57606A" font-size="16">testing, design, examples, or ideas.</text><text x="28" y="190" fill="#0969DA" font-size="15" font-weight="700">BUILD EXPERIENCE WITH REAL PROJECTS →</text></g>
-  <g transform="translate(425 28)"><rect width="350" height="228" rx="12" fill="#F6F8FA" stroke="#D8DEE4"/><circle cx="58" cy="60" r="30" fill="#EAF8EE"/><path d="M50 43L35 60l15 17M66 43l15 17-15 17M62 37L54 83" fill="none" stroke="#1A7F37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="105" y="51" fill="#00274C" font-size="21" font-weight="700">DEVELOPERS</text><text x="105" y="82" fill="#57606A" font-size="16">Fork something useful. Improve it.</text><text x="105" y="106" fill="#57606A" font-size="16">Report bugs and share reusable</text><text x="105" y="130" fill="#57606A" font-size="16">solutions with research teams.</text><text x="28" y="190" fill="#1A7F37" font-size="15" font-weight="700">CONTRIBUTE &amp; COLLABORATE →</text></g>
-  <g transform="translate(812 28)"><rect width="350" height="228" rx="12" fill="#F6F8FA" stroke="#D8DEE4"/><circle cx="58" cy="60" r="30" fill="#F3EAFE"/><path d="M52 35h13l-3 11v25c0 8-7 15-15 15s-15-7-15-15h30M43 47h19M38 72h24" fill="none" stroke="#6639BA" stroke-width="3" stroke-linecap="round"/><text x="105" y="51" fill="#00274C" font-size="21" font-weight="700">RESEARCHERS</text><text x="105" y="82" fill="#57606A" font-size="16">Use our tools, adapt them to your</text><text x="105" y="106" fill="#57606A" font-size="16">studies, tell us what is missing, or</text><text x="105" y="130" fill="#57606A" font-size="16">collaborate on new solutions.</text><text x="28" y="190" fill="#6639BA" font-size="15" font-weight="700">USE, ADAPT &amp; PARTNER →</text></g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+<title id="title">Get involved</title>
+<desc id="desc">Ways for students, developers, and researchers to engage with the open source projects.</desc>
+<defs><style>.card{fill:#F8FAFC;stroke:#D8E2EE;stroke-width:2}.title{font:700 22px Arial, Helvetica, sans-serif}.desc{font:400 15px Arial, Helvetica, sans-serif;fill:#33475B}</style></defs>
+<rect x="24" y="24" rx="16" ry="16" width="368" height="218" class="card"/>
+<circle cx="80" cy="74" r="28" fill="#E8F1FF" stroke="#2A6FD6" stroke-width="2"/>
+<path d="M61 76l19-10 19 10M67 73v9c0 3 8 8 13 8s13-5 13-8v-9M57 79v14" fill="none" stroke="#2A6FD6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="57" cy="96" r="2.5" fill="#2A6FD6"/>
+<text x="124" y="72" fill="#0D3B75" class="title">STUDENTS</text>
+<text x="52" y="122" class="desc">Build experience with real projects.</text>
+<text x="52" y="145" class="desc">Learn from production research tools.</text>
+<text x="52" y="168" class="desc">Contribute code, documentation, tests,</text>
+<text x="52" y="191" class="desc">design ideas, or example workflows.</text>
+
+<rect x="416" y="24" rx="16" ry="16" width="368" height="218" class="card"/>
+<circle cx="472" cy="74" r="28" fill="#EAF7ED" stroke="#2F8F46" stroke-width="2"/>
+<path d="M458 58l-12 16 12 16M486 58l12 16-12 16M469 92l6-36" fill="none" stroke="#2F8F46" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="516" y="72" fill="#1B6D34" class="title">DEVELOPERS</text>
+<text x="444" y="122" class="desc">Fork something useful. Improve it.</text>
+<text x="444" y="145" class="desc">Report bugs and contribute fixes.</text>
+<text x="444" y="168" class="desc">Share solutions that can help research</text>
+<text x="444" y="191" class="desc">teams well beyond your own.</text>
+
+<rect x="808" y="24" rx="16" ry="16" width="368" height="218" class="card"/>
+<circle cx="864" cy="74" r="28" fill="#F3ECFF" stroke="#7A3EC8" stroke-width="2"/>
+<path d="M852 56h20a4 4 0 0 1 4 4v28l-6-4-6 4-6-4-6 4V60a4 4 0 0 1 4-4z" fill="none" stroke="#7A3EC8" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M857 64h14M857 70h14M857 76h9" fill="none" stroke="#7A3EC8" stroke-width="2.2" stroke-linecap="round"/>
+<text x="908" y="72" fill="#6C34AF" class="title">RESEARCHERS</text>
+<text x="836" y="122" class="desc">Use our tools in your work.</text>
+<text x="836" y="145" class="desc">Adapt them to your studies.</text>
+<text x="836" y="168" class="desc">Tell us what is missing, or collaborate</text>
+<text x="836" y="191" class="desc">with us on new solutions.</text>
 </svg>
