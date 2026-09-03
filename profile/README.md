@@ -77,5 +77,5 @@ Senior Mobile Data Architect, Mobile Technologies Core · [Email](mailto:efdc-mo
 
 <p align="center">
   <sub>Open source software from the Eisenberg Family Depression Center at the University of Michigan.</sub><br>
-  <sub>© 2026 Regents of the University of Michigan</sub>
+  <sub>© 2023-2026 The Regents of the University of Michigan  |  <a href="https://depressioncenter.org">Eisenberg Family Depression Center</a></sub>
 </p>
