@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-hero-mobile.svg">
-  <img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-hero.svg" alt="Code that accelerates research breakthroughs. Open source research and automation code from the Eisenberg Family Depression Center at the University of Michigan, illustrated with a glowing neural network brain." width="1200">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-hero-mobile.svg?v=2">
+  <img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-hero.svg?v=2" alt="Code that accelerates research breakthroughs. Open source research and automation code from the Eisenberg Family Depression Center at the University of Michigan, illustrated with a glowing neural network brain." width="1200">
 </picture>
 
 <p align="center">
