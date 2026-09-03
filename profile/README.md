@@ -56,11 +56,8 @@ Senior Mobile Data Architect, Mobile Technologies Core · [Email](mailto:efdc-mo
 ### More resources
 
 <p align="center">
-  <a href="https://depressioncenter.org/"><img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-btn-center.svg" alt="Depression Center" width="230"></a>
-  <a href="https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/Home/"><img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-btn-kb.svg" alt="Knowledge Base" width="205"></a>
-</p>
-
-<p align="center">
+  <a href="https://depressioncenter.org/">Website</a>
+  <a href="https://michmed.org/efdc-kb">Health Research Resource Library (Knowledge Base)</a>
   <a href="https://www.youtube.com/@DepressionCenter">Video Library</a> ·
   <a href="https://code.depressioncenter.org/">Open Source Hub</a>
 </p>
