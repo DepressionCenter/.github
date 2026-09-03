@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 470" role="img" aria-labelledby="title desc">
+<title id="title">Let's connect</title><desc id="desc">Technical and general contact information.</desc>
+<rect width="720" height="470" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <g transform="translate(24 24)"><rect width="672" height="196" rx="12" fill="#FFFFFF" stroke="#D8DEE4"/><circle cx="58" cy="64" r="31" fill="#EAF3FF"/><circle cx="58" cy="54" r="10" fill="none" stroke="#0969DA" stroke-width="3"/><path d="M38 83c4-15 36-15 40 0" fill="none" stroke="#0969DA" stroke-width="3"/><text x="105" y="42" fill="#00274C" font-size="17" font-weight="700">TECHNICAL QUESTIONS &amp; COLLABORATION</text><text x="105" y="74" fill="#00274C" font-size="21" font-weight="700">Gabriel Mongefranco</text><text x="105" y="103" fill="#57606A" font-size="16">Senior Mobile Data Architect · Mobile Technologies Core</text><text x="105" y="146" fill="#0969DA" font-size="15" font-weight="700">Email · GitHub · Staff Profile · Website</text></g>
+ <g transform="translate(24 250)"><rect width="672" height="196" rx="12" fill="#FFFFFF" stroke="#D8DEE4"/><circle cx="58" cy="64" r="31" fill="#FFF4D6"/><path d="M38 54h40M43 54v28M53 54v28M63 54v28M73 54v28M37 83h42M42 46l16-10 16 10" fill="none" stroke="#B58100" stroke-width="3"/><text x="105" y="50" fill="#00274C" font-size="19" font-weight="700">EISENBERG FAMILY DEPRESSION CENTER</text><text x="105" y="82" fill="#57606A" font-size="17">General inquiries</text><text x="105" y="111" fill="#57606A" font-size="16">Research, programs, resources, and the Center.</text><text x="105" y="146" fill="#0969DA" font-size="15" font-weight="700">Email · Phone · Website</text></g>
+</g>
+</svg>
