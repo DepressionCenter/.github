@@ -1,10 +1,10 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-hero-mobile.svg?v=4">
-  <img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-hero.svg?v=4" alt="Accelerating innovations through code to improve mental health outcomes across our communities, illustrated with a glowing neural network brain." width="1200">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-hero-mobile.svg?v=8">
+  <img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-hero.svg?v=8" alt="Accelerating innovations through code to improve mental health outcomes across our communities, illustrated with a glowing neural network brain." width="1200">
 </picture>
 
 <p align="center">
-  <a href="https://code.depressioncenter.org/"><img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-btn-hub.svg?v=3" alt="Explore the Open Source Hub" width="430"></a>
+  <a href="https://code.depressioncenter.org/"><img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-btn-hub.svg?v=5" alt="Explore the Open Source Hub" width="430"></a>
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@ The Eisenberg Family Depression Center publishes open source tools, automations,
 ## What we build
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-what-we-build-mobile.svg?v=3">
-  <img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-what-we-build.svg?v=3" alt="Research software, data and visualization, automation, and mobile technologies." width="1200">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-what-we-build-mobile.svg?v=5">
+  <img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-what-we-build.svg?v=5" alt="Research software, data and visualization, automation, and mobile technologies." width="1200">
 </picture>
 
 <p align="center">
-  <a href="https://code.depressioncenter.org/"><img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-btn-hub.svg?v=3" alt="Browse all open source projects" width="360"></a>
+  <a href="https://code.depressioncenter.org/"><img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-btn-hub.svg?v=5" alt="Browse all open source projects" width="360"></a>
 </p>
 
 ## Get involved
@@ -32,8 +32,8 @@ The Eisenberg Family Depression Center publishes open source tools, automations,
 Open source works best when students, professional developers, and researchers can learn from one another and build on shared solutions.
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-get-involved-mobile.svg?v=3">
-  <img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-get-involved.svg?v=3" alt="Students can build experience with real projects, developers can contribute and collaborate, and researchers can use, adapt, and partner on open source research tools." width="1200">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-get-involved-mobile.svg?v=5">
+  <img src="https://raw.githubusercontent.com/DepressionCenter/.github/main/images/profile-get-involved.svg?v=5" alt="Students can build experience with real projects, developers can contribute and collaborate, and researchers can use, adapt, and partner on open source research tools." width="1200">
 </picture>
 
 <p align="center">
