@@ -1,46 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 780" role="img" aria-labelledby="title desc">
-  <title id="title">Code that accelerates research breakthroughs</title>
-  <desc id="desc">Eisenberg Family Depression Center open source research and automation code, with a glowing neural network brain.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#001426"/><stop offset=".58" stop-color="#00274C"/><stop offset="1" stop-color="#003B70"/></linearGradient>
-    <radialGradient id="halo" cx="66%" cy="29%" r="43%"><stop offset="0" stop-color="#1597D4" stop-opacity=".32"/><stop offset="1" stop-color="#00274C" stop-opacity="0"/></radialGradient>
-    <filter id="glow" x="-200%" y="-200%" width="400%" height="400%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <clipPath id="clip"><path d="M400 105C342 96 294 119 270 158C248 193 247 236 264 271C273 291 286 306 304 316C309 344 329 363 354 368C377 372 397 361 409 344C431 356 456 358 477 348C496 339 508 323 514 305C539 298 556 279 559 255C562 233 555 213 542 198C554 175 550 149 534 131C518 113 495 107 473 112C454 100 428 98 400 105Z"/></clipPath>
-  </defs>
-  <rect width="720" height="780" rx="14" fill="url(#bg)"/><rect width="720" height="780" rx="14" fill="url(#halo)"/>
-
-  <g transform="translate(42 38)">
-    <rect width="58" height="58" rx="6" fill="#FFCB05"/><path d="M9 12h10l10 15 10-15h10v34H39V29L29 44 19 29v17H9Z" fill="#00274C"/>
-    <text x="72" y="23" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="1.2">EISENBERG FAMILY</text>
-    <text x="72" y="46" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">DEPRESSION CENTER</text>
-    <text x="72" y="64" fill="#C5D3DF" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="1">UNIVERSITY OF MICHIGAN</text>
-  </g>
-
-  <g clip-path="url(#clip)" fill="none" stroke-linecap="round">
-    <g stroke="#54BFF4" stroke-width="1.6" stroke-opacity=".58">
-      <path d="M281 172C329 140 363 151 399 181C436 212 474 203 535 157"/><path d="M258 218C314 189 351 198 389 232C428 268 468 265 551 219"/><path d="M267 267C313 247 351 252 393 285C433 316 471 316 537 282"/>
-      <path d="M300 328C337 309 374 310 408 334C438 354 467 352 501 332"/><path d="M308 140C321 183 315 224 296 270C286 296 296 329 334 357"/><path d="M360 112C373 157 369 194 353 229C338 265 340 307 360 364"/>
-      <path d="M416 106C405 150 409 190 428 228C447 265 447 301 429 347"/><path d="M470 115C447 156 454 192 485 224C509 249 510 284 483 337"/><path d="M520 139C489 174 483 208 505 244C519 265 519 289 507 308"/>
-      <path d="M284 161C331 209 389 202 434 161C467 132 497 136 527 159"/><path d="M272 242C322 283 376 277 421 243C457 216 497 215 539 240"/>
-    </g>
-    <g stroke="#FFCB05" stroke-width="1.25" stroke-opacity=".55"><path d="M294 276C333 265 364 273 393 296C427 322 458 322 493 300"/><path d="M318 160C352 187 383 195 415 187C450 179 481 157 507 139"/><path d="M347 329C383 309 417 311 450 328"/></g>
-  </g>
-  <path d="M400 105C342 96 294 119 270 158C248 193 247 236 264 271C273 291 286 306 304 316C309 344 329 363 354 368C377 372 397 361 409 344C431 356 456 358 477 348C496 339 508 323 514 305C539 298 556 279 559 255C562 233 555 213 542 198C554 175 550 149 534 131C518 113 495 107 473 112C454 100 428 98 400 105Z" fill="none" stroke="#72C7F5" stroke-width="2.4" stroke-opacity=".78"/>
-  <path d="M408 114C393 151 393 188 406 224C418 259 418 300 408 340" fill="none" stroke="#72C7F5" stroke-width="1.4" stroke-opacity=".5"/>
-  <g filter="url(#soft)" fill="#72C7F5">
-    <circle cx="281" cy="172" r="4"/><circle cx="329" cy="144" r="3.5"/><circle cx="399" cy="181" r="4"/><circle cx="474" cy="203" r="3.5"/><circle cx="535" cy="157" r="4"/>
-    <circle cx="258" cy="218" r="3.5"/><circle cx="314" cy="189" r="3.5"/><circle cx="389" cy="232" r="4"/><circle cx="468" cy="265" r="3.5"/><circle cx="551" cy="219" r="4"/>
-    <circle cx="267" cy="267" r="3.5"/><circle cx="351" cy="252" r="3.5"/><circle cx="393" cy="285" r="4"/><circle cx="471" cy="316" r="3.5"/><circle cx="537" cy="282" r="4"/>
-    <circle cx="308" cy="140" r="3.5"/><circle cx="360" cy="112" r="3.5"/><circle cx="416" cy="106" r="3.5"/><circle cx="470" cy="115" r="3.5"/><circle cx="520" cy="139" r="3.5"/>
-  </g>
-  <g fill="#FFCB05" filter="url(#glow)"><circle cx="318" cy="160" r="4.5"/><circle cx="415" cy="187" r="4.5"/><circle cx="507" cy="139" r="4.5"/><circle cx="294" cy="276" r="4.5"/><circle cx="393" cy="296" r="5"/><circle cx="493" cy="300" r="4.5"/><circle cx="450" cy="328" r="4.5"/></g>
-
-  <rect x="42" y="409" width="74" height="5" rx="2.5" fill="#FFCB05"/>
-  <text x="42" y="476" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="800" letter-spacing="-1">CODE THAT</text>
-  <text x="42" y="533" fill="#FFCB05" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="800" letter-spacing="-1">ACCELERATES</text>
-  <text x="42" y="590" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="800" letter-spacing="-1">RESEARCH</text>
-  <text x="42" y="647" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="800" letter-spacing="-1">BREAKTHROUGHS.</text>
-  <text x="42" y="698" fill="#F0F4F8" font-family="Arial,Helvetica,sans-serif" font-size="20">Open source tools, automations, and research workflows</text>
-  <text x="42" y="727" fill="#F0F4F8" font-family="Arial,Helvetica,sans-serif" font-size="20">designed to accelerate mental health discoveries.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" role="img" aria-labelledby="title desc">
+<title id="title">Accelerating innovations through code</title>
+<desc id="desc">Eisenberg Family Depression Center open source research and automation code at the University of Michigan, with a glowing brain illustration.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00162F"/><stop offset="0.55" stop-color="#00274C"/><stop offset="1" stop-color="#0A3D73"/></linearGradient>
+<radialGradient id="halo" cx="78%" cy="24%" r="44%"><stop offset="0" stop-color="#2CA7F8" stop-opacity=".35"/><stop offset="1" stop-color="#2CA7F8" stop-opacity="0"/></radialGradient>
+<filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="720" height="760" rx="20" fill="url(#bg)"/><rect width="720" height="760" rx="20" fill="url(#halo)"/>
+<g opacity=".16" fill="none" stroke="#C5D3DF"><path d="M0 88H720"/><path d="M0 166H720"/><path d="M0 244H720"/><path d="M0 322H720"/><path d="M0 400H720"/><path d="M0 478H720"/><path d="M0 556H720"/><path d="M0 634H720"/></g>
+<g transform="translate(42 38)">
+<rect x="0" y="4" width="46" height="46" rx="6" fill="#FFCB05"/><text x="12" y="38" fill="#00274C" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="30" font-weight="900">M</text>
+<text x="60" y="22" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.3">EISENBERG FAMILY</text>
+<text x="60" y="45" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">DEPRESSION CENTER</text>
+<text x="60" y="64" fill="#C8D7E6" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">UNIVERSITY OF MICHIGAN</text>
+</g>
+<g transform="translate(316 34)">
+<path d="M82 26C56 30 34 45 21 68C-2 80 -19 102 -27 127C-38 163 -31 202 -9 231C7 254 31 271 59 279C67 302 82 322 103 335C124 349 150 353 174 347C194 374 224 391 257 392C287 393 316 381 336 360C354 367 374 370 394 366C438 359 476 331 491 290C506 247 498 199 470 164C473 135 464 106 444 84C421 59 389 42 355 38C336 19 311 8 285 4C251 0 216 9 189 28C173 24 156 23 140 26C123 28 100 30 82 26Z" fill="#0F2540" stroke="#74C0F8" stroke-opacity=".62" stroke-width="3"/>
+<path d="M178 283C171 314 176 344 194 367C212 389 238 401 267 403C296 404 322 390 337 368C352 346 355 318 346 291C341 277 333 265 329 251C324 230 327 212 338 195C347 181 360 172 376 166" fill="none" stroke="#74C0F8" stroke-opacity=".5" stroke-width="3"/>
+<g fill="none" stroke="#7CC9FF" stroke-width="2.4" stroke-linecap="round" opacity=".72"><path d="M54 93C89 68 133 56 177 59C228 64 278 94 312 139C335 169 348 206 351 240"/><path d="M27 153C64 133 108 121 154 121C214 121 272 145 309 189C333 216 347 247 352 279"/><path d="M25 207C69 194 112 194 154 202C219 214 269 254 292 311"/><path d="M93 66C92 106 105 142 132 171C161 201 199 220 240 226C275 231 309 224 338 208"/><path d="M125 47C149 72 179 92 214 105C257 120 304 126 343 119"/><path d="M94 260C122 240 155 231 191 231C238 230 282 248 311 283"/><path d="M66 297C104 286 141 287 178 299C215 312 247 335 271 364"/></g>
+<g fill="none" stroke="#FFCB05" stroke-width="1.8" stroke-linecap="round" opacity=".72"><path d="M68 127L121 82L173 102L230 80L292 121L273 179L325 214"/><path d="M36 189L95 162L148 197L213 194L258 243L242 296L286 332"/><path d="M133 45L193 73L251 58L314 90"/><path d="M150 336L197 319L249 337L284 304L327 272"/></g>
+<g fill="#FFFFFF" opacity=".96"><circle cx="68" cy="127" r="5"/><circle cx="121" cy="82" r="4.5"/><circle cx="173" cy="102" r="5"/><circle cx="230" cy="80" r="4.5"/><circle cx="292" cy="121" r="5"/><circle cx="273" cy="179" r="4.5"/><circle cx="325" cy="214" r="5"/><circle cx="36" cy="189" r="4.5"/><circle cx="95" cy="162" r="5"/><circle cx="148" cy="197" r="4.5"/><circle cx="213" cy="194" r="5"/><circle cx="258" cy="243" r="4.5"/><circle cx="242" cy="296" r="5"/><circle cx="286" cy="332" r="4.5"/><circle cx="133" cy="45" r="5"/><circle cx="193" cy="73" r="4.5"/><circle cx="251" cy="58" r="5"/><circle cx="314" cy="90" r="4.5"/><circle cx="150" cy="336" r="5"/><circle cx="197" cy="319" r="4.5"/><circle cx="249" cy="337" r="5"/><circle cx="284" cy="304" r="4.5"/><circle cx="327" cy="272" r="5"/></g>
+<g fill="#FFCB05" filter="url(#softGlow)"><circle cx="68" cy="127" r="3.2"/><circle cx="173" cy="102" r="3.2"/><circle cx="292" cy="121" r="3.2"/><circle cx="148" cy="197" r="3.2"/><circle cx="258" cy="243" r="3.2"/><circle cx="242" cy="296" r="3.2"/><circle cx="251" cy="58" r="3.2"/><circle cx="197" cy="319" r="3.2"/><circle cx="327" cy="272" r="3.2"/></g>
+</g>
+<g transform="translate(42 470)">
+<text x="0" y="0" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Accelerating</text>
+<text x="0" y="46" fill="#FFCB05" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">innovations</text>
+<text x="230" y="46" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">through code</text>
+<text x="0" y="92" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">to improve mental health</text>
+<text x="0" y="138" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">outcomes across our</text>
+<text x="0" y="184" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">communities.</text>
+<text x="0" y="236" fill="#F0F4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">Open source software, automations, analytical workflows, data</text>
+<text x="0" y="263" fill="#F0F4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">tools, and mobile technology resources for research teams.</text>
+</g>
 </svg>
